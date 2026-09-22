@@ -1,0 +1,8 @@
+﻿# 临时数据文件
+_*.txt
+*.tmp
+# 授权/凭证类文件
+feishu_auth_qr.png
+*.token
+# WorkBuddy 内部数据
+.workbuddy/
