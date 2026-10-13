@@ -5,4 +5,7 @@ _*.txt
 feishu_auth_qr.png
 *.token
 # WorkBuddy 内部数据
-.workbuddy/
+.workbuddy/*
+# 但共享项目级技能目录（队友 clone 后自动可用）
+!.workbuddy/skills/
+!.workbuddy/skills/**
